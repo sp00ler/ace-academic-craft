@@ -28,7 +28,7 @@ export const HeroSection = () => {
           <Button 
             variant="outline" 
             size="lg"
-            className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary px-8 py-4 text-lg"
+            className="border-foreground text-foreground hover:bg-foreground hover:text-background px-8 py-4 text-lg"
           >
             Узнать цену
           </Button>
